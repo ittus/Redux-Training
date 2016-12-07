@@ -1,16 +1,20 @@
 export default function() {
     return [
             {
-                title: "Javascript"
+                title: "Javascript",
+                pages: 10
             },
             {
-                title: "Database"
+                title: "Database",
+                pages: 12
             },
             {
-                title: "Harry Porter"
+                title: "Harry Porter",
+                pages: 100
             },
             {
-                title: "Code clean"
+                title: "Code clean",
+                pages: 101
             },
     ];
 };
