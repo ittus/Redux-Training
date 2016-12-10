@@ -13,3 +13,5 @@
 
 ### How to run
 - Register at https://openweathermap.org/forecast5 to get API KEY and change in WeatherForecast/src/actions/index.js
+
+## Blog App
